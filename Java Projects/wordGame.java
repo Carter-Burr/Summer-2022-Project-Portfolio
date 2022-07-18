@@ -8,7 +8,7 @@
 import java.util.*;
 import java.io.*;
 
-public class gameBuilder {
+public class wordGame {
    
    public static void main(String[] args) {
       
